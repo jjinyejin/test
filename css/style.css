@@ -1425,6 +1425,9 @@ header.mnHeader .hdr_inner02 .globe_inner {
   .cnt02_cnt .cnt_inner article.basic_art .title {
     margin-top: max(0.25rem, 10px);
   }
+  .cnt02_cnt .cnt_inner article.basic_art .title h3 {
+    line-height: max(0.625rem, 25px);
+  }
   .cnt02_cnt .cnt_inner article.basic_art .title h3 a {
     font-size: max(1.7em, 17px);
   }
