@@ -433,7 +433,6 @@ header.mnHeader.fixed {
   margin-top: min(0.75rem, 30px);
 }
 .cnt02_cnt .cnt_inner article.basic_art {
-  font-weight: 600;
   line-height: min(0.5rem, 20px);
 }
 .cnt02_cnt .cnt_inner article.basic_art .category {
@@ -442,6 +441,7 @@ header.mnHeader.fixed {
   text-align: center;
   background-color: #fff;
   margin-top: min(0.5rem, 20px);
+  font-weight: 600;
 }
 .cnt02_cnt .cnt_inner article.basic_art .category p.technique {
   color: #4747b3;
@@ -460,12 +460,6 @@ header.mnHeader.fixed {
 }
 .cnt02_cnt .cnt_inner article.basic_art .title {
   margin-top: min(0.25rem, 10px);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  word-break: break-word;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
 }
 .cnt02_cnt .cnt_inner article.basic_art .title h3 a {
   font-size: min(1.6em, 16px);
@@ -493,6 +487,7 @@ header.mnHeader.fixed {
   line-height: min(0.5rem, 20px);
   text-align: center;
   background-color: #fff;
+  font-weight: 600;
 }
 .cnt02_cnt .cnt_inner01 .cnt_innerbox01 article.mn_art .category p.technique {
   color: #4747b3;
